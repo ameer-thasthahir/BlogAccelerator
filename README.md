@@ -1,4 +1,3 @@
-************************* Still - In Progress********************************
 # BlogAccelerator
 Accelerator for personal blog creation. Which contains two portal of updater and viewer.
  *Updater portal
