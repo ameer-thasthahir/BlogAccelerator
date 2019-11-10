@@ -1,6 +1,6 @@
 # BlogAccelerator
 Accelerator for personal blog creation. Which contains two portal of updater and viewer.
- *Updater portal
+Markup: *Updater portal
     * upload and update blog-post
     * preview and update the blog-post
     * create and modify personal profile information
